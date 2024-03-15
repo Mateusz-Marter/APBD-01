@@ -14,3 +14,8 @@ static double Fun(int[] tab)
 
     return avg;
 }
+
+static int MaxNum(int[] tab)
+{
+    return tab.Max();
+}
